@@ -1,0 +1,10 @@
+Simple:- 
+1.Movies that are playin in theatre between so and so date
+2.Movie ratings above 3
+3.tickets having screen#1
+
+Complex:-
+1.How many theatres does a ticket master work for?
+2.# of premium and luxury seats booked after 20:00
+3.regEx
+4.Price a customer paid for their ticket(ADD TO PRUTHVI'S EXISTING QUERY)
